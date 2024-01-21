@@ -20,7 +20,7 @@
 	</ItemGroup>
 
 	<ItemGroup>
-	  <ProjectReference Include="..\Project.DataService\Project.DataAccess.csproj" />
+	  <ProjectReference Include="..\Project.DataAccess\Project.DataAccess.csproj" />
 	</ItemGroup>
 
 </Project>

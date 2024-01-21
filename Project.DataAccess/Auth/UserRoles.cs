@@ -1,4 +1,4 @@
-﻿namespace Project.Common.Auth
+﻿namespace Project.Models.Auth
 {
     public static class UserRoles
     {

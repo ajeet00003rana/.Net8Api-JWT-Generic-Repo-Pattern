@@ -1,6 +1,5 @@
 ﻿using Project.Server.Auth;
 using Microsoft.AspNetCore.Mvc;
-using Project.Common.Auth;
 using Project.Models.Auth;
 
 namespace Project.Server.Controllers
